@@ -3,7 +3,7 @@ progetto scolastico per TPSI
 
 per configurare l'instanza AWS AMI Linux 2:
 ```
-sudo yum uptade -y
+sudo yum update -y
 sudo yum install git -y
 sudo pip3 install flask
 
